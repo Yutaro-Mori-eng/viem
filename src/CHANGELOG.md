@@ -1,5 +1,11 @@
 # viem
 
+## 2.33.3
+
+### Patch Changes
+
+- [`144dc8cb26d9b2011b460eb8d8a05ff692ae5d01`](https://github.com/wevm/viem/commit/144dc8cb26d9b2011b460eb8d8a05ff692ae5d01) Thanks [@Yutaro-Mori-eng](https://github.com/Yutaro-Mori-eng)! - Added Humanity Testnet.
+
 ## 2.33.2
 
 ### Patch Changes
