@@ -1,5 +1,19 @@
 # viem
 
+## 2.34.0
+
+### Minor Changes
+
+- [#3843](https://github.com/wevm/viem/pull/3843) [`15352db6d002742f455946380fd77b16a8c5e3e1`](https://github.com/wevm/viem/commit/15352db6d002742f455946380fd77b16a8c5e3e1) Thanks [@jxom](https://github.com/jxom)! - **Experimental:** Added support for ERC-7811 `getAssets`
+
+### Patch Changes
+
+- [`c88ae75376af7ed7cae920c25116804214a4fea3`](https://github.com/wevm/viem/commit/c88ae75376af7ed7cae920c25116804214a4fea3) Thanks [@jxom](https://github.com/jxom)! - Updated dependencies.
+
+- [`564cd8b55b9b37d5a15a2b1f9ffab2291e58634e`](https://github.com/wevm/viem/commit/564cd8b55b9b37d5a15a2b1f9ffab2291e58634e) Thanks [@Yutaro-Mori-eng](https://github.com/Yutaro-Mori-eng)! - Added Humanity Mainnet.
+
+- [#3838](https://github.com/wevm/viem/pull/3838) [`4a5249a83bf35b1bd1b66f202f3f9a665f14674b`](https://github.com/wevm/viem/commit/4a5249a83bf35b1bd1b66f202f3f9a665f14674b) Thanks [@0xheartcode](https://github.com/0xheartcode)! - Removed deprecated astarzkevm and astarzkyoto chains.
+
 ## 2.33.3
 
 ### Patch Changes
