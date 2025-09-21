@@ -1,5 +1,11 @@
 # viem
 
+## 2.37.8
+
+### Patch Changes
+
+- [#3962](https://github.com/wevm/viem/pull/3962) [`056a6b407c4a4e947c9b8cf00d6a9b1d5baca595`](https://github.com/wevm/viem/commit/056a6b407c4a4e947c9b8cf00d6a9b1d5baca595) Thanks [@Yutaro-Mori-eng](https://github.com/Yutaro-Mori-eng)! - Added Sova mainnet.
+
 ## 2.37.7
 
 ### Patch Changes
